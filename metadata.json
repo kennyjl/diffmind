@@ -1,0 +1,5 @@
+{
+  "name": "DiffMind - 多模型 AI 对比工具",
+  "description": "DiffMind 是一款面向学习、写作、创意探索与复杂问题分析场景的多模型 AI 对比工具，支持 GPT、Gemini、Claude 等多个顶级 AI 同屏对比。",
+  "requestFramePermissions": []
+}
